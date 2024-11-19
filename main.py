@@ -113,7 +113,7 @@ def engine():
 
 
 if __name__ == '__main__':
-    print("Tic Tac Toe")
+    print("Tic Tac Toe!!")
     command_interface()
     print('\n')
     while playing:
